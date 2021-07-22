@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/covid_tracker/static/css/main.c107f335.chunk.css",
+    "main.js": "/covid_tracker/static/js/main.74bc6c4f.chunk.js",
+    "main.js.map": "/covid_tracker/static/js/main.74bc6c4f.chunk.js.map",
+    "runtime-main.js": "/covid_tracker/static/js/runtime-main.e46e7060.js",
+    "runtime-main.js.map": "/covid_tracker/static/js/runtime-main.e46e7060.js.map",
+    "static/css/2.4be38407.chunk.css": "/covid_tracker/static/css/2.4be38407.chunk.css",
+    "static/js/2.3b1d3584.chunk.js": "/covid_tracker/static/js/2.3b1d3584.chunk.js",
+    "static/js/2.3b1d3584.chunk.js.map": "/covid_tracker/static/js/2.3b1d3584.chunk.js.map",
+    "index.html": "/covid_tracker/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/covid_tracker/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.c107f335.chunk.css.map": "/covid_tracker/static/css/main.c107f335.chunk.css.map",
+    "static/js/2.3b1d3584.chunk.js.LICENSE.txt": "/covid_tracker/static/js/2.3b1d3584.chunk.js.LICENSE.txt",
+    "static/media/Banner.26c1c816.jpg": "/covid_tracker/static/media/Banner.26c1c816.jpg",
+    "static/media/Mask.d74f1626.png": "/covid_tracker/static/media/Mask.d74f1626.png",
+    "static/media/Part1.a86bc6bf.PNG": "/covid_tracker/static/media/Part1.a86bc6bf.PNG",
+    "static/media/Part2.bb563724.PNG": "/covid_tracker/static/media/Part2.bb563724.PNG",
+    "static/media/Picc1.52666bc6.png": "/covid_tracker/static/media/Picc1.52666bc6.png",
+    "static/media/Picc2.fefefb11.png": "/covid_tracker/static/media/Picc2.fefefb11.png",
+    "static/media/Wash2.48db5fd1.png": "/covid_tracker/static/media/Wash2.48db5fd1.png",
+    "static/media/faq.13ed86db.png": "/covid_tracker/static/media/faq.13ed86db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e46e7060.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.3b1d3584.chunk.js",
+    "static/css/main.c107f335.chunk.css",
+    "static/js/main.74bc6c4f.chunk.js"
+  ]
+}
