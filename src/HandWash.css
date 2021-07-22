@@ -1,0 +1,121 @@
+.hand_wash_section {
+  margin-top: 20px;
+}
+.Hand_Wash_inner {
+  margin-left: 19px;
+  margin-right: 200px;
+  padding-left: 3px;
+  border-bottom: 1px solid black;
+}
+.Hand_wash_heading {
+  margin-bottom: -15px;
+  font-weight: 500;
+}
+.heading_part {
+  color: black;
+  font-size: 30px;
+  font-weight: 600;
+  padding-right: 160px;
+  padding-left: 10px;
+}
+.inside_matter {
+  margin-top: 70px;
+  padding-left: 20px;
+}
+.division {
+  margin-bottom: 40px;
+}
+.sub_head {
+  font-size: 28px;
+  font-weight: 300;
+}
+.paragraph {
+  color: dimgray;
+  font-weight: 200;
+  padding-right: 220px;
+  font-size: 17px;
+}
+.lists {
+  font-size: 17px;
+  word-spacing: 1px;
+  padding-top: 10px;
+  color: dimgray;
+  font-weight: 200;
+}
+.image_section {
+  margin: 40px 0;
+  display: flex;
+  justify-content: center;
+}
+.imgg {
+  width: 1000px;
+}
+.caution_sectn {
+  background-color: #c0e9ff !important;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  width: 1070px;
+  font-size: 17px;
+  font-weight: 300px;
+}
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+  .Hand_Wash_inner {
+    margin-left: 19px;
+    margin-right: 36px;
+    padding-left: 3px;
+    border-bottom: 1px solid black;
+  }
+  .heading_part {
+    color: black;
+    font-size: 26px;
+    font-weight: 400;
+    padding-right: 160px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+  }
+  .inside_matter {
+    margin-top: 45px;
+    padding-left: 20px;
+  }
+  .paragraph {
+    padding-right: 20px;
+    font-size: 17px;
+  }
+  .image_section {
+    margin: 40px 0;
+    display: flex;
+    justify-content: center;
+  }
+  .imgg {
+    margin-left: -21px;
+    width: 382px;
+    height: 190px;
+  }
+  .division {
+    margin-bottom: 30px;
+  }
+  .sub_head {
+    font-size: 23px;
+    font-weight: 300;
+  }
+  .lists {
+    font-size: 16px;
+    padding-top: 10px;
+    color: dimgray;
+    font-weight: 200;
+    margin-left: -23px;
+    padding-right: 16px;
+  }
+  .caution_sectn {
+    width: 334px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 17px;
+    padding-right: 2px;
+  }
+}

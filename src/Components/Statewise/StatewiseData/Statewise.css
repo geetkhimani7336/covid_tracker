@@ -1,0 +1,32 @@
+.statewise {
+  text-align: center;
+}
+.table-responsive {
+  width: 90%;
+}
+.dataa_heading {
+  font-weight: 200;
+}
+tr:hover {
+  background-color: #ffa;
+}
+td:hover::after,
+th:hover::after {
+  background-color: #f2f2f2;
+}
+.table tr td:hover:nth-child(4) {
+  background-color: rgb(231, 83, 115);
+  color: aliceblue;
+}
+.table tr td:hover {
+  background-color: rgb(117, 223, 112);
+  color: aliceblue;
+}
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+  .container-fluid {
+    overflow-x: scroll;
+  }
+  .table-responsive {
+    width: 99%;
+  }
+}

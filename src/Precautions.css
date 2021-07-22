@@ -1,0 +1,131 @@
+.insidee__section {
+  border: 1px solid rgba(202, 190, 190, 0.979);
+  width: 585px;
+  height: auto;
+  margin: auto;
+  padding-top: 5px;
+  border-radius: 15px;
+}
+.heading {
+  text-align: center;
+  font-weight: 300;
+  font-size: 22px;
+  color: dimgray;
+  display: block;
+  padding-bottom: 15px;
+  border-bottom: 1px solid rgba(202, 190, 190, 0.979);
+}
+.imagee_section {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.image_source {
+  width: 100px;
+}
+.matter_section {
+  text-align: center;
+  padding-bottom: 80px;
+}
+.inside_headingg {
+  font-size: 34px;
+  font-weight: 500;
+}
+.insidee_lists {
+  list-style: none;
+  font-size: 28px;
+  font-weight: 300;
+}
+.insidee_section_1 {
+  padding-left: 30px;
+  padding-right: 200px;
+  margin-bottom: 50px;
+}
+.heading_section1 {
+  margin-bottom: 30px;
+  margin-top: 30px;
+  font-size: 26px;
+  font-weight: 500;
+  padding-bottom: 20px;
+  border-bottom: 1px solid dimgray;
+}
+.paragraph__inside {
+  padding-left: 10px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.listss {
+  padding-left: 10px;
+  font-size: 16px;
+  font-weight: 200;
+  color: dimgray;
+  padding-bottom: 8px;
+}
+.heading_section2 {
+  font-size: 26px;
+  font-weight: 500;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid dimgray;
+}
+.banner_imgg {
+  display: flex;
+}
+.banner_img_sectn {
+  padding-left: 50px;
+  width: 550px;
+}
+
+.lists_1 {
+  font-size: 17px;
+  padding-top: 20px;
+  font-weight: 300;
+  text-justify: inter-word;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+  .insidee__section {
+    width: 360px;
+    margin-top: 80px;
+    margin-bottom: 70px;
+  }
+  .heading {
+    font-size: 22px;
+    padding-bottom: 10px;
+  }
+  .matter_section {
+    padding-bottom: 60px;
+  }
+  .matter_section {
+    text-align: center;
+    padding-bottom: 80px;
+  }
+  .inside_headingg {
+    font-size: 28px;
+  }
+  .insidee_lists {
+    font-size: 25px;
+  }
+  .insidee_section_1 {
+    padding-left: 20px;
+    padding-right: 35px;
+    margin-bottom: 50px;
+  }
+  .heading_section1 {
+    font-size: 24px;
+  }
+  .banner_imgg {
+    display: flex;
+    flex-direction: column;
+  }
+  .banner_img_sectn {
+    padding-left: 0px;
+    width: 348px;
+  }
+  .lists_1 {
+    font-size: 15px;
+    padding-top: 25px;
+    margin-left: -15px;
+  }
+}
